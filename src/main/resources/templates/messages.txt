@@ -1,0 +1,258 @@
+hey
+hello
+hi
+how are you?
+great!
+cool!
+awesome
+neat
+fantastic
+sweet!
+Check out this app
+Text messaging 
+or texting
+is the act of composing and sending brief
+electronic messages between two or more mobile phones
+or fixed or portable devices over a phone network
+The term originally referred to messages sent using the Short Message Service (SMS)
+It has grown to include messages containing image
+video
+and sound content (known as MMS messages)
+The sender of a text message is known as a texter
+while the service itself has different colloquialisms depending on the region
+It may simply be referred to as a text in North America
+the United Kingdom
+Australia
+New Zealand and the Philippines
+an SMS in most of mainland Europe
+and a TMS or SMS in the Middle East
+Africa and Asia
+Text messages can be used to interact with automated systems to 
+for example
+order products or services
+or participate in contests
+Advertisers and service providers use direct text marketing to message mobile phone users about promotions
+payment due dates
+etcetera instead of using mail
+e-mail or voicemail
+In a straight and concise definition for the purposes of this English Language article 
+text messaging by phones or mobile phones should include all 26 letters of the alphabet and 10 numerals
+alpha-numeric messages
+or text
+to be sent by texter or received by the textee
+1933 – RCA Communications 
+New York introduced the first "telex" service 
+[1] The first messages over RCA transatlantic circuits were sent between New York and London 
+Seven million words or 300,000 radiograms transmitted the first year 
+[citation needed] Alphanumeric messages have long been sent by radio using via Radiotelegraphy 
+[2] Digital information began being sent using radio as early as 1971 by the University of Hawaii using ALOHAnet
+The concept of the SMS (Short Messaging Service) was created by Friedhelm Hillebrand 
+while he was working for Deutsche Telekom 
+Sitting at a typewriter at home 
+Hillebrand typed out random sentences and counted every letter 
+number 
+punctuation 
+and space 
+Almost every time 
+the messages amounted to 160 characters 
+thus being the basis for the limit one could type via text 
+[3] With Bernard Ghillebaert of France Télécom 
+he developed a proposal for the GSM group meeting in February 1985 in Oslo 
+[4] The first technical solution was developed in a GSM subgroup under the leadership of Finn Trosby 
+It was further developed under the leadership of Kevin Holley and Ian Harris (see Wikipedia: Short Message Service)
+SMS messaging was used for the first time on 3 December 1992 
+when Neil Papworth 
+a 22-year-old test engineer for Sema Group in the UK[6] (now Airwide Solutions),[7] used a personal computer to send the text message "Merry Christmas" via the Vodafone network to the phone of Richard Jarvis[8][9] who was at a party in Newbury 
+Berkshire which had been organised to celebrate the event
+Modern SMS text messaging is understood to be messaging from one mobile phone to another mobile phone 
+Radiolinja became the first network to offer commercial person-to-person SMS text messaging service in 1994 
+When Radiolinja's domestic competitor 
+Telecom Finland (now part of TeliaSonera) also launched SMS text messaging in 1995 and the two networks offered cross-network SMS functionality 
+Finland became the first nation where SMS text messaging was offered as a competitive as well as commercial basis
+The first text messaging service in the United States was provided by American Personal Communications (APC) 
+the first GSM carrier in America 
+Sprint Telecommunications Venture 
+a partnership of Sprint Corp 
+and three large cable TV companies 
+owned 49 percent of APC 
+The Sprint venture was the largest single buyer at a government-run spectrum auction that raised $7 
+7 billion in 2005 for PCS licenses 
+APC operated under the brand name of Sprint Spectrum and launched service on November 15 
+1995 in Washington D
+and Baltimore Maryland 
+The initial call to launch the network was made from Vice President Al Gore in Washington
+to Mayor Kurt Schmoke in Baltimore 
+[10] Soon to follow was Omnipoint Communications 
+[11] Omnipoint's George Schmitt 
+a former Airtouch executive[12] who launched commercial GSM in Germany 
+recruited Roger Wood[13] from competitor iDEN / Nextel led a team that introduced texting as a commercial service in New York City in November 1996 
+[9] In preparation for the company's launch party in New York's Central Park 
+Wood and co-worker Mark Caron[14] sent the first SMS Text message of "George are you there?" to Schmitt during a Sunday morning RF drive test on October 20 
+1996 
+Omnipoint soon offered the first texting between the U
+and the rest of the world 
+[15] The tipping point for text messaging was the 1998 marketing plan conceived by Wood which encouraged consumers to use texting as the primary way to communicate with their home countries while traveling overseas instead of calling home 
+[16] This positioning set the stage for text messaging as the primary means of contact between two or more people not in their home countries
+Initial growth of text messaging was slow 
+with customers in 1995 sending on average only 0 
+4 message per GSM customer per month 
+[18] One factor in the slow take-up of SMS was that operators were slow to set up charging systems 
+especially for prepaid subscribers 
+and eliminate billing fraud 
+which was possible by changing SMSC settings on individual handsets to use the SMSCs of other operators 
+Over time 
+this issue was eliminated by switch-billing instead of billing at the SMSC and by new features within SMSCs to allow blocking of foreign mobile users sending messages through it
+SMS is available on a wide range of networks 
+including 3G networks 
+However 
+not all text messaging systems use SMS 
+and some notable alternate implementations of the concept include J-Phone's SkyMail and NTT Docomo's Short Mail 
+both in Japan 
+E-mail messaging from phones 
+as popularized by NTT Docomo's i-mode and the RIM BlackBerry 
+also typically use standard mail protocols such as SMTP over TCP/IP
+Today 
+text messaging is the most widely used mobile data service 
+with 74% of all mobile phone users worldwide 
+or 2 
+4 billion out of 3 
+3 billion phone subscribers 
+at end of 2007 being active users of the Short Message Service 
+In countries such as Finland 
+Sweden and Norway 
+over 85% of the population use SMS 
+The European average is about 80% 
+and North America is rapidly catching up with over 60% active users of SMS by end of 2008 
+The largest average usage of the service by mobile phone subscribers is in the Philippines 
+with an average of 27 texts sent per day by subscriber
+SMS is widely used for delivering digital content 
+such as news alerts 
+financial information 
+logos and ringtones 
+Such messages are also known as premium-rated short messages (PSMS) 
+[40] The subscribers are charged extra for receiving this premium content 
+and the amount is typically divided between the mobile network operator and the value added service provider (VASP) 
+either through revenue share or a fixed transport fee 
+Services like 82ASK and Any Question Answered have used the PSMS model to enable rapid response to mobile consumers' questions 
+using on-call teams of experts and researchers
+Premium short messages are increasingly being used for "real-world" services 
+For example 
+some vending machines now allow payment by sending a premium-rated short message 
+so that the cost of the item bought is added to the user's phone bill or subtracted from the user's prepaid credits 
+Recently 
+premium messaging companies have come under fire from consumer groups due to a large number of consumers racking up huge phone bills
+A new type of free-premium or hybrid-premium content has emerged with the launch of text-service websites 
+These sites allow registered users to receive free text messages when items they are interested in go on sale 
+or when new items are introduced
+An alternative to inbound SMS is based on long numbers (international mobile number format
++44 7624 805000 
+or geographic numbers that can handle voice and SMS 
+01133203040[39])
+which can be used in place of short codes or premium-rated short messages for SMS reception in several applications 
+such as TV voting 
+product promotions 
+and campaigns 
+Long numbers are internationally available 
+as well as enabling businesses to have their own number 
+rather than short codes 
+which are usually shared across a lot of brands 
+Additionally 
+Long numbers are non-premium inbound numbers 
+In business[edit]
+The use of text messaging for business purposes has grown significantly during the mid-2000s 
+As companies seek competitive advantages 
+many employees turn to new technology 
+collaborative applications 
+and real-time messaging such as SMS 
+instant messaging 
+and mobile communications 
+Some practical uses of text messaging include the fuse of SMS for confirming delivery or other tasks 
+for instant communication between a service provider and a client
+stock broker and investor) 
+and for sending alerts 
+Several universities have implemented a system of texting students and faculties campus alerts 
+One such example is Penn State
+As text messaging has proliferated in business 
+so too have regulations governing its use 
+One regulation specifically governing the use of text messaging in financial-services firms engaged in stocks 
+equities 
+and securities trading is Regulatory Notice 07-59 
+Supervision of Electronic Communications 
+December 2007 
+issued to member firms by the Financial Industry Regulatory Authority 
+In 07-59 
+FINRA noted that "electronic communications" 
+"e-mail" 
+and "electronic correspondence" may be used interchangeably and can include such forms of electronic messaging as instant messaging and text messaging 
+[42] Industry has had to develop new technology to allow companies to archive their employees' text messages
+Security 
+confidentiality 
+reliability and speed of SMS are among the most important guarantees industries such as financial services 
+energy and commodities trading 
+health care and enterprises demand in their mission-critical procedures 
+One way to guarantee such a quality of text messaging lies in introducing SLAs (Service Level Agreement) 
+which are common in IT contracts 
+By providing measurable SLAs 
+corporations can define reliability parameters and set up a high quality of their services 
+[43] Just one of many SMS applications that has proven highly popular and successful in the financial-services industry is mobile receipts 
+In January 2009 
+Mobile Marketing Association (MMA) published the Mobile Banking Overview for financial institutions in which it discussed the advantages and disadvantages of mobile channel platforms such as Short Message Services (SMS) 
+Mobile Web 
+Mobile Client Applications 
+SMS with Mobile Web and Secure SMS
+Mobile interaction services are an alternative way of using SMS in business communications with greater certainty
+Typical business-to-business applications are telematics and Machine-to-Machine 
+in which two applications automatically communicate with each other 
+Incident alerts are also common 
+and staff communications are also another use for B2B scenarios
+Businesses can use SMS for time-critical alerts 
+updates and reminders 
+mobile campaigns 
+content and entertainment applications
+Mobile interaction can also be used for consumer-to-business interactions 
+such as media voting and competitions 
+and for consumer-to-consumer interaction 
+for example 
+with mobile social networking 
+chatting and dating
+Worldwide use[edit]
+Europe[edit]
+SMS is used to send "welcome" messages to mobile phones roaming between countries 
+Here 
+T-Mobile welcomes a Proximus subscriber to the UK 
+and BASE welcomes an Orange UK customer to Belgium
+Europe follows next behind Asia in terms of the popularity of the use of SMS 
+In 2003 
+an average of 16 billion messages were sent each month 
+Users in Spain sent a little more than fifty messages per month on average in 2003 
+In Italy 
+Germany and the United Kingdom 
+the figure was around 35–40 SMS messages per month 
+In each of these countries 
+the cost of sending an SMS message varies from €0 
+04–0 
+23 
+depending on the payment plan (with many contractual plans including all or a number of texts for free) 
+In the United Kingdom 
+text messages are charged between £0 
+05–0
+Curiously
+France has not taken to SMS in the same way 
+sending just under 20 messages on average per user per month 
+France has the same GSM technology as other European countries 
+so the uptake is not hampered by technical restrictions 
+In the Republic of Ireland
+a total of 1 
+5 billion messages are sent every quarter 
+on average 114 messages per person per month 
+In the United Kingdom over 1 billion text messages are sent every week
+The Eurovision Song Contest organized the first pan-European SMS voting in 2002
+as a part of the voting system (there was also a voting over traditional phone lines) 
+In 2005 
+the Eurovision Song Contest organized the biggest televoting ever (with SMS and phone voting) 
+During roaming
+that is 
+when a user connects to another network in different country from his own 
+the prices may be higher 
+but in July 2009 
+EU legislation went into effect limiting this price to €0
